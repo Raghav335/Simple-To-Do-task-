@@ -9,7 +9,7 @@ This project helps users manage tasks efficiently — add, complete, and delete 
 ## 🔗 Live Demo
 
 👉 [Click here to try it live](https://-Raghav335.github.io/simple-todo/)  
-💻Repo *(-)*
+💻Repo *(https://github.com/Raghav335/Simple-To-Do-task-)*
 
 ---
 

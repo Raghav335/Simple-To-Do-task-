@@ -32,7 +32,7 @@ This project helps users manage tasks efficiently — add, complete, and delete 
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot]()
 
 ---
 
